@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "nodemon practice",
+    "app":"node practice"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "yargs": "^17.3.0"
+  }
+}
